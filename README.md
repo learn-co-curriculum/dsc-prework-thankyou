@@ -4,11 +4,13 @@ Thank you for sticking with it! We're excited for you to start.
 
 ## Next Steps
 
-We do not expect you to complete any more preparation work before starting the main Data Science program. Please contact your Admissions representative if you're uncertain about start dates or anything else related to getting started.
+You’ve passed your Prep Post Assessment - great work! Remember, you also need to complete your paperwork and get financially cleared in order to begin the program. Please contact <onboarding@flatironschool.com> if you're uncertain about start dates or anything else related to getting started.
+
+In the meantime, we highly recommend that you work through the final two modules of the Prep course on Environment Set-Up, as that will get you ready to hit the ground running on Day 1. We also have supplemental resources below that you can explore if you have additional time or could use some more practice before your first day.
 
 ## Supplemental Resources
 
-If you have additional time or feel that you need additional practice or preparation before the Data Science program starts, we have collected links to some optional supplemental third-party resources below. ***You are not required to utilize any of these resources, and in general if you have limited time we recommend reviewing the provided prep rather than additional readings or practice.***
+You are not required to utilize any of these resources, and in general if you have limited time we recommend reviewing the course you’ve just completed above rather than additional readings or practice.
 
 ### Python
 
@@ -22,9 +24,9 @@ If you have additional time or feel that you need additional practice or prepara
  - **Probability**: Brilliant offers free [intro to probability lessons](https://brilliant.org/courses/probability/)
  - **Statistics**: If you're interested in working through a complete free statistics course, [Khan Academy](https://www.khanacademy.org/math/statistics-probability) offers one that we recommend
 
-### Linear Algebra
+The topics below were not introduced in the Prep and will be covered in the main course, but some students prefer to study in advance if they have not been exposed to these topics previously.
 
-This topic was not introduced in the prep and will be covered in the main course, but some students prefer to study in advance if they have not been exposed to it previously.
+### Linear Algebra
 
  - **Overview**: This [blog post](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/) has a good introduction to the linear algebra concepts you'll need to know as a data scientist
  - **The Essence of Linear Algebra**: This [YouTube playlist](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) from 3Blue1Brown has great visual explanations of the geometric concepts behind linear algebra
@@ -37,17 +39,13 @@ This topic was not introduced in the prep and will be covered in the main course
 
 ### Command Line / Terminal
 
-This topic was not introduced in the prep and will be covered in the main course, but some students prefer to study in advance if they have not been exposed to it previously.
-
  - **Command Line Course**: OpenClassrooms offers a free [short course on the command line](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal) that is designed for beginners
  - **Command Line Game**: If you would rather learn by playing a game, this [terminal game from MIT](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) is a good choice
 
 ### Structured Query Language (SQL)
 
-This topic was not introduced in the prep and will be covered in the main course, but some students prefer to study in advance if they have not been exposed to it previously.
-
  - **SQL Course**: Both [OpenClassrooms](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql) and [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) offer intro to SQL courses
 
 ## Thank You!
 
-We hope you have enjoyed your first experience with the technical topics and curriculum delivery tools we use at Flatiron School. We're excited to see you on your first day!
+We hope you have enjoyed your first experience with the technical topics and curriculum tools we use at Flatiron School. We're excited to see you on your first day!
