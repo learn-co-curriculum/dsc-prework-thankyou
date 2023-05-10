@@ -6,11 +6,44 @@ Thank you for sticking with it! We're excited for you to start.
 
 You’ve passed your Prep Post Assessment - great work! Remember, you also need to complete your paperwork and get financially cleared in order to begin the program. Please contact <onboarding@flatironschool.com> if you're uncertain about start dates or anything else related to getting started.
 
-In the meantime, we highly recommend that you work through the final two modules of the Prep course on Environment Set-Up, as that will get you ready to hit the ground running on Day 1. We also have supplemental resources below that you can explore if you have additional time or could use some more practice before your first day.
+In the meantime, we highly recommend that you work through the following content on Environment Set-Up as that will get you ready to hit the ground running on Day 1.
+
+### Getting Started with Data Science
+
+* [Getting Started with Data Science - Introduction](https://github.com/learn-co-curriculum/dsc-introduction-v2-2-intro)
+* [Problems Data Science can Solve](https://github.com/learn-co-curriculum/dsc-problems-data-science-can-solve)
+* [The Data Science Process](https://github.com/learn-co-curriculum/dsc-the-data-science-process)
+* [Data Privacy and Ethics](https://github.com/learn-co-curriculum/dsc-data-ethics)
+* [Setting up a Professional Data Science Environment - Introduction](https://github.com/learn-co-curriculum/dsc-data-science-env-introduction)
+* [Setting up a Professional Data Science Environment - MacOS Installation](https://github.com/learn-co-curriculum/dsc-data-science-env-mac-installation)
+* [Setting up a Professional Data Science Environment - Windows Installation](https://github.com/learn-co-curriculum/dsc-data-science-env-windows-installation)
+* [Setting up a Professional Data Science Environment - Configuring Git and Anaconda](https://github.com/learn-co-curriculum/dsc-data-science-env-config)
+* [Running Jupyter Notebooks Locally](https://github.com/learn-co-curriculum/dsc-running-jupyter-locally)
+    * [Running Jupyter Notebooks Locally - Lab](https://github.com/learn-co-curriculum/dsc-running-jupyter-locally-lab)
+* [PEP8](https://github.com/learn-co-curriculum/dsc-PEP8)
+* [Getting Started with Data Science - Recap](https://github.com/learn-co-curriculum/dsc-introduction-v2-2-recap)
+
+### Bash and Git
+
+* [Bash and Git - Introduction](https://github.com/learn-co-curriculum/dsc-git-bash-collab-intro)
+* [The Bash Shell](https://github.com/learn-co-curriculum/dsc-bash-shell)
+* [Short Video: Bash](https://player.vimeo.com/video/713398999?h=cf5cb60dab&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+* [Git Version Control 101](https://github.com/learn-co-curriculum/dsc-git-version-control-101)
+* [Setting up a SSH Token for a GitHub Account](https://docs.google.com/document/d/1svlRu4sr7PMFTpkItFN0_KcxjVI1BQjiER9yKbvK2SM/edit#heading=h.qlq16l7xxr2v)
+* [Getting Started with Git](https://github.com/learn-co-curriculum/dsc-git-intro)
+* [Git Practice](https://github.com/learn-co-curriculum/dsc-git-practice)
+* [.gitignore](https://github.com/learn-co-curriculum/dsc-gitignore)
+* [Collaborating with Git Branches](https://github.com/learn-co-curriculum/dsc-git-branches)
+    * [Git Merge - Lab](https://github.com/learn-co-curriculum/dsc-git-merge-lab)
+    * [Git Stash - Lab](https://github.com/learn-co-curriculum/dsc-git-stash-lab)
+* [Git Resources](https://github.com/learn-co-curriculum/dsc-git-resources)
+* [Bash and Git - Recap](https://github.com/learn-co-curriculum/dsc-git-collab-recap)
+
+Once you have finished the topics above, below are supplemental resources that you can explore if you have additional time or could use some more practice before your first day.
 
 ## Supplemental Resources
 
-You are not required to utilize any of these resources, and in general if you have limited time we recommend reviewing the course you’ve just completed above rather than additional readings or practice.
+You are not required to utilize any of these resources, and in general if you have limited time we recommend reviewing the course you’ve just completed and material above rather than additional readings or practice.
 
 ### Python
 
